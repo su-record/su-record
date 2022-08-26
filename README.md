@@ -22,7 +22,7 @@
 ![Socket](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
   
 #### 📫 Where to find me
-![Blogger](https://img.shields.io/badge/blog-ff5722?style=for-the-badge&logo=blogger&logoColor=black)
+[![Blogger](https://img.shields.io/badge/blog-ff5722?style=for-the-badge&logo=blogger&logoColor=black)](https://su-record.github.io/stories/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%88%98%EC%9B%90-%ED%95%A8-40108816a/)
 
 
