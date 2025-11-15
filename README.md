@@ -7,7 +7,7 @@
 
 ### 🎯 Current Projects
 
-**[Hi-AI](https://github.com/su-record/hi-ai)** ⭐  
+**[Hi-AI](https://github.com/su-record/hi-ai)**
 [![Glama](https://img.shields.io/badge/Glama-Verified-4A90E2)](https://glama.ai/mcp/servers/@su-record/hi-ai)
 [![smithery.ai](https://img.shields.io/badge/smithery.ai-1.10k-orange)](https://smithery.ai/server/@su-record/hi-ai)
 [![npm](https://img.shields.io/npm/v/@su-record/hi-ai?color=green)](https://www.npmjs.com/package/@su-record/hi-ai)
