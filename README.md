@@ -13,8 +13,7 @@
 [![npm](https://img.shields.io/npm/v/@su-record/hi-ai?color=green)](https://www.npmjs.com/package/@su-record/hi-ai)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-AI와의 자연스러운 코드 대화를 위한 MCP 서버 - 29개의 도구로 개발 생산성 극대화  
-✅ Glama/Smithery 공식 검증 완료 | 📦 1.10k+ 다운로드
+AI와의 자연스러운 코드 대화를 위한 MCP 서버 - 34개의 도구로 개발 효율성 증가  
 
 **[Fallingo](https://fallingo.app)** 🍽️ - Location-Based Food Social Platform  
 AI-First 개발 방법론으로 FastAPI, Flutter, PostgreSQL/PostGIS 학습 중
