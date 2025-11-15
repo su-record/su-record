@@ -7,15 +7,16 @@
 
 ### 🎯 Current Projects
 
-**[Hi-AI](https://github.com/su-record/hi-ai)**  
-[![Glama](https://img.shields.io/badge/Glama-Verified-4A90E2)](https://glama.ai/mcp/servers/@su-record/hi-ai)
+**[Hi-AI](https://github.com/su-record/hi-ai)** ⭐ - MCP Server for "Vibe Coding"  
+[![Glama](https://img.shields.io/badge/Glama-Listed-4A90E2)](https://glama.ai/mcp/servers/@su-record/hi-ai)
 [![smithery.ai](https://img.shields.io/badge/smithery.ai-1.10k-orange)](https://smithery.ai/server/@su-record/hi-ai)
 [![npm](https://img.shields.io/npm/v/@su-record/hi-ai?color=green)](https://www.npmjs.com/package/@su-record/hi-ai)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-AI와의 자연스러운 코드 대화를 위한 MCP 서버 - 34개의 도구로 개발 효율성 증가  
+AI와의 자연스러운 코드 대화를 위한 MCP 서버 - 29개의 도구로 개발 생산성 극대화
 
-**[Fallingo](https://fallingo.app)** 🍽️ - Location-Based Food Social Platform  
+**[Fallingo](https://fallingo.app)** 🍽️ - Location-Based Food Recommendation Social Platform
+
 AI-First 개발 방법론으로 FastAPI, Flutter, PostgreSQL/PostGIS 학습 중
 
 ---
