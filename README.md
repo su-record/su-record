@@ -1,6 +1,6 @@
 ## 👋 Hello World! I'm Su
 
-> 🚀 **AI-First Developer** | 12+ years Frontend Experience  
+> 🚀 **AI-First Developer** | 10+ years Frontend Experience  
 > 비전통적 배경에서 시작해 AI와 함께 새로운 가능성을 만들어가는 개발자
 
 ---
