@@ -7,13 +7,12 @@
 
 ### 🎯 Current Projects
 
-**[Hi-AI](https://github.com/su-record/hi-ai)** ⭐ - MCP Server for "Vibe Coding"  
-[![Glama](https://img.shields.io/badge/Glama-Listed-4A90E2)](https://glama.ai/mcp/servers/@su-record/hi-ai)
-[![smithery.ai](https://img.shields.io/badge/smithery.ai-1.10k-orange)](https://smithery.ai/server/@su-record/hi-ai)
-[![npm](https://img.shields.io/npm/v/@su-record/hi-ai?color=green)](https://www.npmjs.com/package/@su-record/hi-ai)
+**[Vibe](https://github.com/su-record/vibe)** ⭐ - SPEC-Scenario-driven AI Coding Framework  
+[![npm](https://img.shields.io/npm/v/@su-record/vibe?color=green)](https://www.npmjs.com/package/@su-record/vibe)
+[![npm downloads](https://img.shields.io/npm/dt/@su-record/vibe)](https://www.npmjs.com/package/@su-record/vibe)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-자연어 기반 바이브 코딩 최적화 MCP 서버
+Claude Code 기반 Multi-LLM 오케스트레이션 AI 코딩 프레임워크
 
 **[Fallingo](https://fallingo.app)** 🍽️ - Location-Based Food Recommendation Social Platform
 
@@ -23,9 +22,9 @@ AI-First 개발 방법론으로 FastAPI, Flutter, PostgreSQL/PostGIS 학습 중
 
 ### 💼 Currently
 
-- 🎨 Toss 인앱 "My Style" AI 이미지 생성 서비스 개발
+- 🎨 Vibe 프레임워크 개발 중 (14,000+ downloads)
 - 🎓 Google for Startups Cloud Program ($2,000 credits)
-- 🎯 Fallingo 베타 런칭 준비 중 (Dec 2025)
+- 🎯 Fallingo 베타 런칭 준비 중 (Jan 2026)
 - ✍️ [개발 여정 기록](https://su-record.github.io/stories/)
 
 ---
