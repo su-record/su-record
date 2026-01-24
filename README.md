@@ -23,7 +23,6 @@ AI-First 개발 방법론으로 FastAPI, Flutter, PostgreSQL/PostGIS 학습 중
 ### 💼 Currently
 
 - 🎨 Vibe 프레임워크 개발 중
-- 🎓 Google for Startups Cloud Program ($2,000 credits)
 - 🎯 Fallingo 베타 런칭 준비 중 (Jan 2026)
 - ✍️ [개발 여정 기록](https://su-record.github.io/stories/)
 
