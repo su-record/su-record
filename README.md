@@ -7,7 +7,7 @@
 
 ### 🎯 Current Projects
 
-**[Vibe](https://github.com/su-record/vibe)** ⭐ - SPEC-Scenario-driven AI Coding Framework  
+**Vibe** ⭐ - SPEC-Scenario-driven AI Coding Framework  
 [![npm](https://img.shields.io/npm/v/@su-record/vibe?color=green)](https://www.npmjs.com/package/@su-record/vibe)
 [![npm downloads](https://img.shields.io/npm/dt/@su-record/vibe)](https://www.npmjs.com/package/@su-record/vibe)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
