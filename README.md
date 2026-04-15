@@ -18,7 +18,7 @@ Claude Code 기반 Multi-LLM 오케스트레이션 AI 코딩 프레임워크
 [![Price](https://img.shields.io/badge/Pro-$20%2Fmo-amber)](https://tory.my)  
 GPT·Claude·Gemini 등 멀티 프로바이더, 모델이 회의·투표하는 데스크탑 앱  
 
-**[Fallingo](https://fallingo.app)** 🍽️ - Location-Based Food Recommendation Social Platform  
+**[Fallingo](https://fallingo.app)** 🍽️ - Location-Based Recommendation Social Platform  
 AI-First 개발 방법론으로 FastAPI, Flutter, PostgreSQL/PostGIS 학습 중
 
 ---
