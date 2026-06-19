@@ -13,9 +13,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 Claude Code 기반 Multi-LLM 오케스트레이션 AI 코딩 프레임워크  
 
-**[Tory](https://tory.my)** 🧠 - 먼저 말 거는 AIㅡ 개인화 지식그래프
+**[Tory](https://tory.my)** 🧠 - 먼저 말 거는 AIㅡ 개인화 지식그래프  
 [![Website](https://img.shields.io/badge/tory.my-바로가기-blue)](https://tory.my)
-[![Price](https://img.shields.io/badge/Pro-$29%2Fmo-amber)](https://tory.my)
+[![Price](https://img.shields.io/badge/Pro-$29%2Fmo-amber)](https://tory.my)  
 AI가 먼저 말을 걸어 오늘의 일·생각·감정을 손쉽게 적게 하고, 흩어진 기록을 자동으로 연결해 나중에 물어보면 바로 찾아 주는 개인 지식그래프 앱
 
 **[Fallingo](https://fallingo.app)** 🍽️ - Location-Based Recommendation Social Platform  
