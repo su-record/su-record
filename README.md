@@ -59,6 +59,17 @@
       <p>AI 개발 도구와 제품을 만들며 배운 것, 시행착오, 생각을 기록하는 마크다운 기반 블로그입니다. <a href="https://github.com/su-record/stories">Source →</a></p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">🛰️ sutory</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/hermes--agent-ops%20server-8B5CF6?style=flat-square" alt="hermes-agent ops server" />
+        <img src="https://img.shields.io/badge/Discord-AI%20staff%20%C3%97%202-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord, 2 AI staff" />
+        <img src="https://img.shields.io/badge/repo-private-374151?style=flat-square&logo=github&logoColor=white" alt="Private repo" />
+      </p>
+      <p>hermes-agent로 구성해 Discord에 연결한 <b>개인 AI 운영 서버</b>입니다. AI 직원 둘(tory·mini)이 리서치, 카드뉴스·영상·음악 제작, 블로그·SNS 발행, 지식 관리까지 일상 작업을 자동으로 수행합니다. workflows → capabilities → core 레이어 아키텍처와 자가진단(doctor) 게이트로 운영합니다.</p>
+    </td>
+  </tr>
 </table>
 
 ## Toolbox
