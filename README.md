@@ -64,7 +64,7 @@
 ## Toolbox
 
 <p align="center">
-  <a href="#toolbox"><img src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,nuxt,py,flutter,gcp,githubactions,npm" alt="TypeScript, React, Next.js, Vue, Nuxt, Python, Flutter, Google Cloud, GitHub Actions, npm" /></a>
+  <a href="#toolbox"><img src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,nuxt,py,flutter,gcp,azure,githubactions,npm" alt="TypeScript, React, Next.js, Vue, Nuxt, Python, Flutter, Google Cloud, Azure, GitHub Actions, npm" /></a>
 </p>
 
 <p align="center">
