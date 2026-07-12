@@ -90,7 +90,7 @@
 
     <!-- left column -->
     <rect x="70" y="46" width="60" height="6" rx="3" fill="url(#accent)" />
-    <text x="70" y="120" fill="url(#accent)" font-size="62" font-weight="800" letter-spacing="-2">SU</text>
+    <text x="70" y="120" fill="url(#accent)" font-size="62" font-weight="800" letter-spacing="-2">Su</text>
     <text x="70" y="168" fill="#F8FAFC" font-size="27" font-weight="650">Build fast. Prove it works.</text>
     <text x="70" y="202" fill="#8B98AE" font-size="18">Developer tools · Agent workflows · Frontend craft</text>
 
