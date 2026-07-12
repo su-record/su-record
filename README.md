@@ -26,7 +26,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://tory.my">💬 Torya</a></h3>
+      <h3 align="center"><a href="https://tory.my">💬 토리야</a></h3>
       <p align="center">
         <a href="https://tory.my"><img src="https://img.shields.io/badge/live-tory.my-EC4899?style=flat-square" alt="Live service" /></a>
       </p>
