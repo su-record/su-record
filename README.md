@@ -18,7 +18,7 @@
 
 <p align="center">
   Frontend engineer building proactive personal software, verifiable AI workflows, and developer tools.<br>
-  I like software where tests and evidence—not the model's self-report—decide when the work is done.
+  I like software where tests and evidence, not the model's self-report, decide when the work is done.
 </p>
 
 ## Selected work
