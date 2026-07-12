@@ -29,8 +29,9 @@
       <h3 align="center"><a href="https://tory.my">💬 토리야</a></h3>
       <p align="center">
         <a href="https://tory.my"><img src="https://img.shields.io/badge/live-tory.my-EC4899?style=flat-square" alt="Live service" /></a>
+        <img src="https://img.shields.io/badge/Azure-infra-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure infrastructure" />
       </p>
-      <p>대화와 하루의 흐름을 기억하고, 필요한 순간에 먼저 말을 걸어 기록과 회상을 돕는 <b>개인 AI 동반자</b>입니다. 모바일 중심 앱과 웹 서비스로 운영하고 있습니다.</p>
+      <p>대화와 하루의 흐름을 기억하고, 필요한 순간에 먼저 말을 걸어 기록과 회상을 돕는 <b>개인 AI 동반자</b>입니다. Azure 인프라 위에서 모바일 중심 앱과 웹 서비스로 운영하고 있습니다.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/su-record/vibe">✅ Vibe</a></h3>
@@ -60,14 +61,22 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">🛰️ sutory</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/hermes--agent-ops%20server-8B5CF6?style=flat-square" alt="hermes-agent ops server" />
+        <img src="https://img.shields.io/badge/Oracle%20Cloud-self--hosted-C74634?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Cloud self-hosted" />
         <img src="https://img.shields.io/badge/Discord-AI%20staff%20%C3%97%202-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord, 2 AI staff" />
-        <img src="https://img.shields.io/badge/repo-private-374151?style=flat-square&logo=github&logoColor=white" alt="Private repo" />
       </p>
-      <p>hermes-agent로 구성해 Discord에 연결한 <b>개인 AI 운영 서버</b>입니다. AI 직원 둘(tory·mini)이 리서치, 카드뉴스·영상·음악 제작, 블로그·SNS 발행, 지식 관리까지 일상 작업을 자동으로 수행합니다. workflows → capabilities → core 레이어 아키텍처와 자가진단(doctor) 게이트로 운영합니다.</p>
+      <p>hermes-agent로 구성해 Discord에 연결한 <b>개인 AI 운영 서버</b>입니다. Oracle Cloud 인스턴스에서 상시 구동되며, AI 직원 둘(tory·mini)이 리서치, 카드뉴스·영상·음악 제작, 블로그·SNS 발행, 지식 관리까지 일상 작업을 자동으로 수행합니다.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔁 Vica</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/npm-%40su--record%2Fvica%20%C2%B7%20coming%20soon-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm coming soon" />
+        <img src="https://img.shields.io/badge/dependencies-zero-16A34A?style=flat-square" alt="Zero dependencies" />
+      </p>
+      <p>자연어 요구사항으로 소프트웨어를 만들고 머신 검증을 통과해야 반환하는 <b>결정론적 코딩 루프</b>입니다. clarify → plan → build → escalate 파이프라인이 코드에 고정되어 있고, 빌드·테스트 게이트와 완성도 검사가 출고를 판정합니다. 터미널·Telegram·Discord·Slack에서 실시간 관찰·조종할 수 있습니다.</p>
     </td>
   </tr>
 </table>
